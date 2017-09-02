@@ -24,6 +24,10 @@ Before getting started, you need to have at least one of this plugins installed 
 2. drop the .jar file in your plugin folder
 3. restart your server
 
+# Configuration
+The whole configuration is made through the GUI and by using certain commands.
+
+
 
 
 
