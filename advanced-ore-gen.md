@@ -9,6 +9,8 @@
 * works with ASkyBlock, AcidIsland and uSkyBlock
 # Installation
 
+There are some steps needed before AdvancedOreGen can be used.
+
 ### pre requirements
 
 Before getting started, you need to have at least one of this plugins installed on your server:
