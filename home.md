@@ -1,4 +1,5 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: You will find the documentations of mastercake10's plugins in this wiki. -->
 
-# Header
+# Plugin documentations:
+<a href="https://www.w3schools.com">Visit W3Schools</a>
