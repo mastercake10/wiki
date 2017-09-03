@@ -49,7 +49,7 @@ You can add new generators and it's permission by typing the following exemplary
 /oregen generator add vip oregen.vip
 ```
 
-where the `default` and `vip` are the name of the generator preset and `oregen.default` and `oregen.vip` the permission.
+where `default` and `vip` are the name of the generator preset and `oregen.default` and `oregen.vip` the permission.
 
 After that, you may edit both generators by typing this command:
 
