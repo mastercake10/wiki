@@ -81,7 +81,8 @@ Now you're ready to go and you are now able to customize the vip generator!
 # Commands
 There are some command for managing the different generators.
 
-`test`
+`/oregen edit` - opens the GUI where you can choose the generator to edit
+
 
 
 
