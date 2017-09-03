@@ -70,10 +70,9 @@ The gold nugget indicates the current percentage, which should alway be at 100.0
 Let's say we want this generator to create 50% cobblestone and 50% iron ore, we need to proceed the following steps:
 1. select a cobblestone block and an iron ore block from your inventory (Add it before editing).
 2. click on each block in order to change the percentage; a sign will be opened, put 50 in it
-![H 1504396945 2740433 76972 C 1346](/uploads/h-1504396945-2740433-76972-c-1346.png "H 1504396945 2740433 76972 C 1346")
-
 3. voila, your percentage should now be at 100.0.
 
+![H 1504396945 2740433 76972 C 1346](/uploads/h-1504396945-2740433-76972-c-1346.png "H 1504396945 2740433 76972 C 1346")
 ![H 1504397137 2180880 3842 Fcdf 83](/uploads/h-1504397137-2180880-3842-fcdf-83.png "H 1504397137 2180880 3842 Fcdf 83")
 
 Now you're ready to go and you are now able to customize the vip generator!
