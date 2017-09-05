@@ -1,5 +1,5 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: You will find the documentations of mastercake10's plugins in this wiki. -->
+<!-- SUBTITLE: official plugin wiki for mastercake10's plugins. -->
 
 # Plugin documentations
 <a href="/advanced-ore-gen">Advanced Ore Gen (Premium)</a>
