@@ -31,7 +31,7 @@ The whole configuration is made through the GUI and by using certain commands.
 
 The plugin allowes you to customize different generator presets for certain permission, thus for instance you're able to create a default generator generating cobblestone and a vip generator creating cobblestone and gold:
 
-![H 1504395406 3250698 9 Cf 0106826](/uploads/h-1504395406-3250698-9-cf-0106826.png "H 1504395406 3250698 9 Cf 0106826")
+![minecraft screenshot](/img/h-1504395406-3250698-9-cf-0106826.png)
 
 Generator #1 was set up with the permission `oregen.default` and Generator #2 with `oregen.vip`, therefor you need to provide the respective permission to your players.
 
