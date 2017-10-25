@@ -78,6 +78,21 @@ Let's say we want this generator to create 50% cobblestone and 50% iron ore, we 
 
 Now you're ready to go and you are now able to customize the vip generator!
 
+### AFK feature
+
+Since version 1.3.2, AdvancedOreGen includes a nice anti afk features that allows you to give players who are mining AFK another generator.
+AFK means, that the player doesn't changes his position during mining.
+You can enable this by uncommenting the following lines in your config.yml:
+
+```yaml
+#afk-generator-name: afk
+#afk-after-x-seconds: 1200
+```
+
+By default, the player is handled as AFK after 20 minutes. Keep in mind that you need to set up an AFK - Generator, which should have the afk-generator-name, the permission is inconsequential.
+
+![H 1504396566 4427302 49223 Adfd 7](/uploads/afk-generator-example.png "Example of an AFK-Generator")
+
 
 # Commands
 There are some command for managing the different generators.
